@@ -41,3 +41,43 @@ ___
 <!-- ctrl+/ --> 주석
 [ ] 체크박스?? 깃허브, readme 해석시 특수문법
 [x] 체크된것
+
+~~되기도하고 안되기도 하는~~ ~~취소선~~
+
+*기울이기*
+
+_기울이기_
+
+**진하게**
+
+__진하게__
+
+***기울이면서진하게***
+
+<mark>형광펜</mark>
+
+
+```python
+print("hello world")
+```
+>인용
+>>인용안의 인용
+
+
+<center>메르메이드(mermaid) ???</center>
+
+
+[네이버](https://naver.com)
+
+![대체 텍스트](https://images.unsplash.com/photo-1792809950995-3f0595153b07?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
+
+[![이미지](이미지링크)](접속링크)
+
+| (vertical bar = pipeline)
+
+|제목1|제목2|
+|-----|-----|
+|내용 |내용2|
+
+|---:|  오른쪽 정렬
+|:---:| 가운데 정렬
